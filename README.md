@@ -29,7 +29,7 @@ Esta aplicación es una herramienta visual e interactiva para el estudio de **gr
 - ✨ El **AST (Árbol Sintáctico Abstracto)** — versión simplificada sin nodos redundantes
 
 ---
-## 🎬 Demo
+## 🎬 Demostración
 
 https://github.com/user-attachments/assets/4847d12a-f082-4c8f-8978-7bed91076029
 ## 🚀 Instalación y ejecución
