@@ -1,4 +1,4 @@
-# 🌿 Generador de Árboles Sintácticos
+# ✨ Generador de Árboles Sintácticos
 
 > **Derivación y Árboles Sintácticos para Gramáticas Libres de Contexto**  
 > Visualiza derivaciones izquierda/derecha, árboles de derivación y AST de forma interactiva.
@@ -213,7 +213,7 @@ proyecto_cfg/
 
 <div align="center">
 
-🌿 *Hecho con Python, PyQt5 y NLTK*  
+✨ *Hecho con Python, PyQt5 y NLTK*  
 **Simon Santiago Soto Berrío — ST0244 Lenguajes de Programación — EAFIT 2026**
 
 </div>
